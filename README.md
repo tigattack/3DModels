@@ -1,4 +1,4 @@
-# 3D Designs
+# 3D Models
 
 Just a place to keep the models I've created.
 
